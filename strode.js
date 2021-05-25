@@ -1,11 +1,11 @@
-var strodeData ={
+var strodeData = {
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
       "properties": {
         "location": "Swimming Pool",
-        "photo": "ITandComputers.jpg",
+        //"photo": "ITandComputers.jpg",
         "description": "Water sports"
       },
       "geometry": {
@@ -20,7 +20,7 @@ var strodeData ={
       "type": "Feature",
       "properties": {
         "location": "A Block",
-        "photo": "ITandComputers.jpg",
+        //"photo": "ITandComputers.jpg",
         "description": "The Learning Zone, Hair, Beauty and Barbering, The Refectory, Student Support Centre"
       },
       "geometry": {
@@ -35,7 +35,7 @@ var strodeData ={
       "type": "Feature",
       "properties": {
         "location": "B Block",
-        "photo": "ITandComputers.jpg",
+        //"photo": "ITandComputers.jpg",
         "description": "Reception"
       },
       "geometry": {
@@ -50,7 +50,7 @@ var strodeData ={
       "type": "Feature",
       "properties": {
         "location": "D Block",
-        "photo": "ITandComputers.jpg",
+        //"photo": "ITandComputers.jpg",
         "description": "Higher Education and Skills"
       },
       "geometry": {
@@ -65,7 +65,7 @@ var strodeData ={
       "type": "Feature",
       "properties": {
         "location": "E Block",
-        "photo": "ITandComputers.jpg",
+        //"photo": "ITandComputers.jpg",
         "description": "The Brasserie, The Hospitality Training Kitchen, Vocational Studies, Science Labs"
       },
       "geometry": {
@@ -80,7 +80,7 @@ var strodeData ={
       "type": "Feature",
       "properties": {
         "location": "J Block",
-        "photo": "ITandComputers.jpg",
+        //"photo": "ITandComputers.jpg",
         "description": "A Level Teaching Rooms"
       },
       "geometry": {
@@ -95,7 +95,7 @@ var strodeData ={
       "type": "Feature",
       "properties": {
         "location": "M Block",
-        "photo": "ITandComputers.jpg",
+        //"photo": "ITandComputers.jpg",
         "description": "T Level Childcare, Health and Social Care"
       },
       "geometry": {
@@ -110,7 +110,7 @@ var strodeData ={
       "type": "Feature",
       "properties": {
         "location": "C Block",
-        "photo": "ITandComputers.jpg",
+        //"photo": "ITandComputers.jpg",
         "description": "Engineering Department, Sculpture and Modelling, Music Studio and Practice Rooms, Media Production Suites, Coomputing Rooms"
       },
       "geometry": {
